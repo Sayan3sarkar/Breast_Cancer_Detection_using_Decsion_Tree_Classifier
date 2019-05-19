@@ -17,7 +17,7 @@ We prepare a **DECISION TREE CLASSIFIER** on the [Breast Cancer Dataset](https:/
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. n the 3-dimensional space is that described in: **K. P. Bennett and O. L. Mangasarian: *"Robust Linear Programming Discrimination of Two Linearly Inseparable Sets"*, Optimization Methods and Software 1, 1992, 23-34.**
 
 
-**Attribute Information:
+**Attribute Information**:
 
 1) ID number 2) Diagnosis (M = malignant, B = benign) 
 
